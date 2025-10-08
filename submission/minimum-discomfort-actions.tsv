@@ -1,7 +1,7 @@
 	state	action
-0	exposed-1	do-nothing
-1	exposed-2	do-nothing
-2	exposed-3	do-nothing
+0	exposed-1	sleep-8
+1	exposed-2	sleep-8
+2	exposed-3	sleep-8
 3	recovered	do-nothing
 4	symptoms-1	drink-oj
 5	symptoms-2	drink-oj
